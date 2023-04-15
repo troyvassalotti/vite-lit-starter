@@ -1,6 +1,7 @@
 {
   "name": "vite-lit-starter",
   "version": "1.0.0",
+  "type": "module",
   "description": "Bootstrap a lit web component using vite.",
   "main": "dist/index.js",
   "files": [
